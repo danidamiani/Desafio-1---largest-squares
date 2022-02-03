@@ -19,14 +19,3 @@ Input:
 solution.solution(12)
 Output:
     9,1,1,1
-
--- Java cases --
-Input:
-Solution.solution(12)
-Output:
-    9,1,1,1
-
-Input:
-Solution.solution(15324)
-Output:
-    15129,169,25,1
